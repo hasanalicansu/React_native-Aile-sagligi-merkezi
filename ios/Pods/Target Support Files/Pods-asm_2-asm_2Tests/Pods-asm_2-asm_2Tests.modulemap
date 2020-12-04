@@ -1,0 +1,6 @@
+module Pods_asm_2_asm_2Tests {
+  umbrella header "Pods-asm_2-asm_2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
