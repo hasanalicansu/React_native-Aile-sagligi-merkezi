@@ -19,14 +19,14 @@ class App extends Component {
 
   UNSAFE_componentWillMount(){
     firebase.initializeApp({
-      apiKey: 'AIzaSyDKOViWto_7kvsEMUtezD4EruUWGjxLav4',
+      apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
       authDomain: 'saglikv2.firebaseapp.com',
       databaseURL: 'https://saglikv2.firebaseio.com',
       projectId: 'saglikv2',
       storageBucket: 'saglikv2.appspot.com',
-      messagingSenderId: '1052232709989',
-      appId: '1:1052232709989:web:81773ad365bc3c48a8538c',
-      measurementId: 'G-W7D2KV9VXC',
+      messagingSenderId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      appId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      measurementId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     });
    }
   
